@@ -1,0 +1,14 @@
+{
+    "data":[
+        {
+            "question" : "Ibu Kota Indonesia saat ini?",
+            "choices" : ["Jakarta","Lampung","Medan","Surabaya"],
+            "answer" : "Jakarta"
+        },
+        {
+            "question" : "Siapa Presiden Pertama Indonesia?",
+            "choices" : ["Joko Widodo","Megawati","Soekarno","Susilo Bambang Yudhoyono"],
+            "answer" : "Soekarno"
+        }
+    ]
+}
